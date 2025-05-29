@@ -1,3 +1,12 @@
-print(1+1)
-print("Hello, World!")
-print("This is the first Python script.")
++ #plus
+- #minus
+* #multiply
+** #power of
+/ #divide
+// #truncated division
+= #equal
+> #greater than
+< #less than
+<= #less than equal
+>= #greater than equa;
+% #modulo
