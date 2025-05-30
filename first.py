@@ -1,3 +1,2 @@
-first_name = "John"
-print(first_name[0])
-print(first_name[-1])
+first_name = None
+type(print(first_name))
